@@ -3,3 +3,4 @@
 All notable changes documented here.
 
 - **2025-03-21**: feat: add client IP geolocation hashing to audit logs
+- **2025-03-21**: style: enforce strict TypeScript type annotations
