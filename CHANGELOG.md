@@ -9,3 +9,4 @@ All notable changes documented here.
 - **2025-03-26**: test: add load test simulating 5000 req/sec rate limit bursts
 - **2025-03-26**: perf: optimize token bucket refill calculation interval
 - **2025-03-30**: refactor: extract authorization policy helpers into separate module
+- **2025-04-02**: feat: add client IP geolocation hashing to audit logs
