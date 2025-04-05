@@ -11,3 +11,4 @@ All notable changes documented here.
 - **2025-03-30**: refactor: extract authorization policy helpers into separate module
 - **2025-04-02**: feat: add client IP geolocation hashing to audit logs
 - **2025-04-02**: feat: add client IP geolocation hashing to audit logs
+- **2025-04-05**: perf: optimize token bucket refill calculation interval
