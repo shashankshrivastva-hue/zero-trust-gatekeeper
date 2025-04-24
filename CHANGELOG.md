@@ -19,3 +19,4 @@ All notable changes documented here.
 - **2025-04-16**: test: add load test simulating 5000 req/sec rate limit bursts
 - **2025-04-18**: security: update JWT verification clock tolerance parameter
 - **2025-04-21**: docs: document reverse proxy upstream header sanitization rules
+- **2025-04-24**: docs: document reverse proxy upstream header sanitization rules
