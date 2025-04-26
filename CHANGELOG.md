@@ -21,3 +21,4 @@ All notable changes documented here.
 - **2025-04-21**: docs: document reverse proxy upstream header sanitization rules
 - **2025-04-24**: docs: document reverse proxy upstream header sanitization rules
 - **2025-04-24**: refactor: extract authorization policy helpers into separate module
+- **2025-04-26**: feat: add client IP geolocation hashing to audit logs
