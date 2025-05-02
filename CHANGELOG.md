@@ -24,3 +24,4 @@ All notable changes documented here.
 - **2025-04-26**: feat: add client IP geolocation hashing to audit logs
 - **2025-04-28**: chore: audit dependencies for known vulnerability advisories
 - **2025-05-02**: chore: audit dependencies for known vulnerability advisories
+- **2025-05-03**: style: enforce strict TypeScript type annotations
