@@ -27,3 +27,4 @@ All notable changes documented here.
 - **2025-05-03**: style: enforce strict TypeScript type annotations
 - **2025-05-06**: fix: prevent header injection by validating upstream targets
 - **2025-05-06**: fix: prevent header injection by validating upstream targets
+- **2025-05-10**: fix: prevent header injection by validating upstream targets
