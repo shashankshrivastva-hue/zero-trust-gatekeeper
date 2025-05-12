@@ -28,3 +28,4 @@ All notable changes documented here.
 - **2025-05-06**: fix: prevent header injection by validating upstream targets
 - **2025-05-06**: fix: prevent header injection by validating upstream targets
 - **2025-05-10**: fix: prevent header injection by validating upstream targets
+- **2025-05-12**: refactor: extract authorization policy helpers into separate module
