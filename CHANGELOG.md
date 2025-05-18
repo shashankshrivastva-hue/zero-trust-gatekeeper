@@ -31,3 +31,4 @@ All notable changes documented here.
 - **2025-05-12**: refactor: extract authorization policy helpers into separate module
 - **2025-05-16**: test: add load test simulating 5000 req/sec rate limit bursts
 - **2025-05-16**: fix: prevent header injection by validating upstream targets
+- **2025-05-18**: perf: optimize token bucket refill calculation interval
