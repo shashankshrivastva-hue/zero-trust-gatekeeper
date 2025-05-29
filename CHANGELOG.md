@@ -36,3 +36,4 @@ All notable changes documented here.
 - **2025-05-21**: docs: document reverse proxy upstream header sanitization rules
 - **2025-05-23**: test: add load test simulating 5000 req/sec rate limit bursts
 - **2025-05-27**: chore: audit dependencies for known vulnerability advisories
+- **2025-05-30**: style: enforce strict TypeScript type annotations
