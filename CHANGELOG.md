@@ -38,3 +38,4 @@ All notable changes documented here.
 - **2025-05-27**: chore: audit dependencies for known vulnerability advisories
 - **2025-05-30**: style: enforce strict TypeScript type annotations
 - **2025-05-30**: test: add test vectors for tampered and expired signatures
+- **2025-06-02**: refactor: extract authorization policy helpers into separate module
