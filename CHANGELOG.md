@@ -42,3 +42,4 @@ All notable changes documented here.
 - **2025-06-02**: docs: document reverse proxy upstream header sanitization rules
 - **2025-06-04**: refactor: extract authorization policy helpers into separate module
 - **2025-06-07**: refactor: extract authorization policy helpers into separate module
+- **2025-06-11**: perf: optimize token bucket refill calculation interval
