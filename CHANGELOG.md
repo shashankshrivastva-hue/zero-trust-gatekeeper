@@ -44,3 +44,4 @@ All notable changes documented here.
 - **2025-06-07**: refactor: extract authorization policy helpers into separate module
 - **2025-06-11**: perf: optimize token bucket refill calculation interval
 - **2025-06-11**: security: update JWT verification clock tolerance parameter
+- **2025-06-13**: security: update JWT verification clock tolerance parameter
