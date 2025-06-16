@@ -46,3 +46,4 @@ All notable changes documented here.
 - **2025-06-11**: security: update JWT verification clock tolerance parameter
 - **2025-06-13**: security: update JWT verification clock tolerance parameter
 - **2025-06-16**: refactor: extract authorization policy helpers into separate module
+- **2025-06-16**: fix: prevent header injection by validating upstream targets
